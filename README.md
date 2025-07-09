@@ -70,5 +70,5 @@ _Intern | Business & Data Analytics_
 
 
 - [GitHub](https://github.com/Suryavathipenta)
-- Email: suryavathipenta@email.com
+- Email: suryavathipenta@gmail.com
 
